@@ -1,0 +1,6 @@
+@openzeppelin/contracts/=lib/openzeppelin-contracts/
+forge-std/=lib/forge-std/
+@strategies/=dependencies/strategies/
+@shared/=dependencies/shared/
+@address-book/=dependencies/address-book/
+@interfaces/=dependencies/interfaces/src/interfaces/
